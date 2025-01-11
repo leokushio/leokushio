@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Flutter разработчик
+# Flutter/Unity/c# разработчик
 ⌨ Специализации: — Программист, разработчик
 
 👨‍💼 полная занятость, частичная занятость 
@@ -9,4 +9,4 @@
 
 💬 Английский — В совершенстве 
 
-🛠️ Навыки: Git, HTML, REST API, dart, firebase, Provider, Riverpod
+🛠️ Навыки: Git, HTML, REST API, dart, firebase, Provider, Unity, C#
